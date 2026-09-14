@@ -1,2 +1,2 @@
 # Blender-kurssi
-Godot 4.7
+Godot 4.7 ok
